@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "328533956638",
+    "firebase_url": "https://itstore2-39884.firebaseio.com",
+    "project_id": "itstore2-39884",
+    "storage_bucket": "itstore2-39884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328533956638:android:a40d24a26c312730",
+        "android_client_info": {
+          "package_name": "br.unicatolica.pos.otavio.itstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328533956638-g9klpcq46r41r430ni70b0ph9ljp2881.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unicatolica.pos.otavio.itstore",
+            "certificate_hash": "f7953738dc20af4f17ba54d7569d4a8d1515d68b"
+          }
+        },
+        {
+          "client_id": "328533956638-3sr66bo8hdcqjrf0c6khekmjgre9ht2d.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "328533956638-3sr66bo8hdcqjrf0c6khekmjgre9ht2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGz7WXilXxaGnbatoFWGTh2G14I1onLqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328533956638-3sr66bo8hdcqjrf0c6khekmjgre9ht2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
